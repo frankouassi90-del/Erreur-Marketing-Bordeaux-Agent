@@ -17,6 +17,8 @@ tools: Read, Write, Glob, Grep, Skill
 
 **Méthode** : priorise les leviers qui produisent un effet mesurable dans le mois (réactivation, publicité, bouton Réserver) avant les leviers lents (avis, SEO). En coiffure, vérifie que le gain attendu (réservations × ticket moyen) dépasse le prix du pilote ; sinon, ajuste l'objectif ou le prix et signale-le.
 
+**Double rentabilité (obligatoire)** : chiffre (a) le gain du client pour l'objectif (réservations × ticket réel ou hypothèse explicite) et (b) le temps de travail du consultant (heures, hypothèses) et son revenu horaire, comparé au plancher de 30 €/h. Si l'un des deux ne tient pas, dis-le et propose l'alternative (Essentiel sans garantie, autre prix). Prix de référence : `strategie/chiffrage-abonnement-essentiel.md`.
+
 **Skills utiles** : `marketing:campaign-plan`, `small-business:content-strategy`, `small-business:proposal-builder`.
 
 **Décision humaine** : stratégie, prix proposés, budget publicitaire, éligibilité au pilote.

@@ -1,0 +1,2 @@
+n°;date_creation;date_venue;canal_tracable;preuve;type_reservation;nb_couverts_ou_prestation;statut;motif_exclusion;saisi_par
+1;AAAA-MM-JJ;AAAA-MM-JJ;gbp_reserver | gbp_post | instagram_bio | site_bouton | email_reactivation | sms_reactivation | gads | meta_ads | mot_cle_telephone;ligne export / code promo / ID formulaire / note d'appel;table | prestation;2;comptée | exclue | en attente;doublon | non honorée | hors période | groupe > 8 | sans canal tracé | personnel/proche;équipe du client

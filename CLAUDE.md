@@ -31,6 +31,15 @@ La session principale orchestre. Elle lit la fiche client, choisit les agents, l
 7. **IA visible.** Tout assistant qui répond aux clients d'un commerce annonce qu'il est une IA. Tout visuel ou vidéo de synthèse réaliste est signalé comme tel.
 8. **Ton.** Direct, concret, chiffré, sans jargon ni superlatifs. Vouvoiement avec les clients. Phrases courtes, en français, sans tiret cadratin.
 
+## Règles commerciales (issues des tests du 2026-11-18)
+
+- **Pilote garanti** : seulement pour un restaurant qui déclare au moins 8 tables libres par semaine. Sinon, une réservation tracée remplace une réservation téléphonique sans créer de client.
+- **Coiffure et restaurants déjà complets** : abonnement Essentiel sans garantie de volume.
+- **Prix de référence (hypothèses à valider)** : voir `strategie/chiffrage-abonnement-essentiel.md`. Pilote restaurant 590 € HT, Essentiel 199 € HT/mois (coiffure : test 149 contre 199), mise en place sans pilote 149 € HT.
+- **Double rentabilité obligatoire** : toute proposition chiffre le gain du client ET le revenu horaire du consultant, comparé au plancher de 30 €/h.
+- **Vérification humaine avant contact** : google.com, thefork.fr, fr.mappy.com et instagram.com ne sont pas accessibles depuis la session. Les chiffres d'audit sont relayés par des annuaires et doivent être vérifiés à la main sur Google Maps (5 minutes) avant tout contact.
+- **Pas de prix au premier contact.**
+
 ## Format de sortie de chaque livrable
 
 1. **Synthèse** : 3 lignes maximum.
