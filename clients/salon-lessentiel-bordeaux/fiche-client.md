@@ -16,13 +16,15 @@
 ## Situation en ligne (audit du 2026-11-18)
 - Fiche Google : note 4,7/5, 92 avis (map4leads, date de collecte inconnue). Bouton Réserver : [À COMPLÉTER], absence probable. Photos, publications, description : 0/5 selon map4leads. Horaires absents. Aucune réponse aux avis.
 - Instagram : présent selon map4leads, abonnés et fréquence [À COMPLÉTER]. Facebook : page « Salon L'essentiel », rattachement à confirmer. TikTok : aucun.
-- Logiciel de réservation : aucun trouvé (rendez-vous par téléphone)
+- Logiciel de réservation : aucun trouvé (rendez-vous par téléphone). Option à proposer : Treatwell sous 3 vérifications, sinon Planity, sinon registre [À VALIDER]
 - Site web : aucun confirmé
 
 ## Économie
 - Ticket moyen : [À COMPLÉTER] (repère national UNEC : 43 €, à remplacer par le chiffre du salon)
 - Capacité : [À COMPLÉTER] fauteuils ; créneaux creux : [À COMPLÉTER]
 - Clients existants joignables (consentement ou clients existants) : [À COMPLÉTER]
+- Seuil de prestation comptée proposé : 25 € TTC [À VALIDER] ; capacité minimale proposée : 8 créneaux libres/semaine [À VALIDER]
+- Fermetures prévues déc.-janv. : [À COMPLÉTER] ; part du sans rendez-vous : [À COMPLÉTER]
 
 ## Concurrents du quartier
 | Nom | Note | Avis | Atout visible |
@@ -33,8 +35,8 @@
 
 ## Offre et contrat
 - Statut : prospect
-- Pilote : non proposé
-- Canaux traçables : aucun
+- Pilote : proposition préparée le 2026-11-18 (`2026-11-18_stratege_proposition-pilote.md`), en attente de validation. Hypothèses : 190 € HT, 0 € de pub par défaut, option Meta 150 € TTC à J10. [À VALIDER]
+- Canaux traçables : prévus (UTM gbp_reserver, gbp_post, instagram_bio, réactivation SMS/e-mail, meta_ads en option ; mot-clé téléphone). Aucun en ligne.
 - Abonnement : aucun
 
 ## Charte et ton
