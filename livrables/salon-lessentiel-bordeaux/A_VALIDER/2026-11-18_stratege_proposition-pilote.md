@@ -1,3 +1,5 @@
+> **Note du 2026-11-18 (session principale)** : proposition dépassée par la règle commerciale ajoutée à `CLAUDE.md` après les deux tests. La coiffure passe en Essentiel sans garantie de volume (voir `strategie/chiffrage-abonnement-essentiel.md`). Conserver ce document pour l'audit et les briefs, pas pour l'offre.
+
 # Proposition de pilote 30 jours : Salon L'Essentiel (Bordeaux Saint-Augustin) [À VALIDER]
 
 *Agent : Stratège. Rédigé le 2026-11-18. Brouillon interne. À présenter au gérant seulement après vérification humaine de l'identité du salon et des chiffres Google (voir audit du Chercheur, `livrables/salon-lessentiel-bordeaux/A_VALIDER/2026-11-18_chercheur_audit.md`).*
