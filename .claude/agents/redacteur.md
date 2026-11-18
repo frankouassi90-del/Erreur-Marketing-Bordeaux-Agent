@@ -1,6 +1,6 @@
 ---
 name: redacteur
-description: Rédige les textes : publications réseaux sociaux et fiche Google, réponses aux avis, description de fiche, e-mails et SMS de réactivation, messages de prospection. Produit uniquement des brouillons.
+description: "Rédige les textes : publications réseaux sociaux et fiche Google, réponses aux avis, description de fiche, e-mails et SMS de réactivation, messages de prospection. Produit uniquement des brouillons."
 tools: Read, Write, Glob, Grep, Skill
 ---
 

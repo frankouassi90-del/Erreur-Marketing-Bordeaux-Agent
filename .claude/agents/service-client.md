@@ -1,6 +1,6 @@
 ---
 name: service-client
-description: Prépare les réponses aux messages des clients d'Erreur Marketing Bordeaux et aux questions des prospects, la FAQ et les propositions de rendez-vous. Brouillons uniquement, jamais d'envoi.
+description: "Prépare les réponses aux messages des clients d'Erreur Marketing Bordeaux et aux questions des prospects, la FAQ et les propositions de rendez-vous. Brouillons uniquement, jamais d'envoi."
 ---
 
 # Service client

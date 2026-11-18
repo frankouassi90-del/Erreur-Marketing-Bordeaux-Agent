@@ -1,6 +1,6 @@
 ---
 name: stratege
-description: Planifie la stratégie d'un client : plan mensuel, proposition de pilote garanti, briefs pour les autres agents. À utiliser après un audit, en début de mois, ou pour préparer une proposition commerciale.
+description: "Planifie la stratégie d'un client : plan mensuel, proposition de pilote garanti, briefs pour les autres agents. À utiliser après un audit, en début de mois, ou pour préparer une proposition commerciale."
 tools: Read, Write, Glob, Grep, Skill
 ---
 

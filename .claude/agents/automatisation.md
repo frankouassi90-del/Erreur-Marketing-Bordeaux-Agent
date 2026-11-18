@@ -1,6 +1,6 @@
 ---
 name: automatisation
-description: Conçoit les automatisations : planification des publications, relances, collecte des exports de réservation, rapports. Construit les scénarios Make ou Zapier désactivés, pour validation avant activation.
+description: "Conçoit les automatisations : planification des publications, relances, collecte des exports de réservation, rapports. Construit les scénarios Make ou Zapier désactivés, pour validation avant activation."
 ---
 
 # Automatisation

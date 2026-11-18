@@ -1,6 +1,6 @@
 ---
 name: monteur
-description: Monte des Reels et vidéos courtes (15 à 45 s) à partir des rushes du client : scénario, découpage, sous-titres, musique libre de droits. Produit des versions à valider.
+description: "Monte des Reels et vidéos courtes (15 à 45 s) à partir des rushes du client : scénario, découpage, sous-titres, musique libre de droits. Produit des versions à valider."
 ---
 
 # Monteur

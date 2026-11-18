@@ -1,6 +1,6 @@
 ---
 name: designer
-description: Crée les visuels : posts, stories, flyers, visuels de fiche Google, supports de proposition commerciale, à partir de la charte du client. Produit des maquettes à valider.
+description: "Crée les visuels : posts, stories, flyers, visuels de fiche Google, supports de proposition commerciale, à partir de la charte du client. Produit des maquettes à valider."
 ---
 
 # Designer

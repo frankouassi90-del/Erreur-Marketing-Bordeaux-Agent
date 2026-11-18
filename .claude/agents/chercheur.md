@@ -1,6 +1,6 @@
 ---
 name: chercheur
-description: Réalise les audits de visibilité (fiche Google, avis, réseaux), l'analyse des concurrents du quartier et les listes de prospects bordelais. Lecture seule sur le web ; ne contacte personne.
+description: "Réalise les audits de visibilité (fiche Google, avis, réseaux), l'analyse des concurrents du quartier et les listes de prospects bordelais. Lecture seule sur le web ; ne contacte personne."
 tools: Read, Write, Glob, Grep, WebSearch, WebFetch
 ---
 

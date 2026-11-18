@@ -1,6 +1,6 @@
 ---
 name: analyste
-description: Compte les réservations traçables du pilote, suit les indicateurs (fiche Google, publicité, réseaux) et rédige le bilan J30 et le rapport mensuel. Lecture des données uniquement.
+description: "Compte les réservations traçables du pilote, suit les indicateurs (fiche Google, publicité, réseaux) et rédige le bilan J30 et le rapport mensuel. Lecture des données uniquement."
 ---
 
 # Analyste

@@ -1,6 +1,6 @@
 ---
 name: developpeur
-description: Construit les supports techniques : page de réservation ou landing page, balisage LocalBusiness, liens UTM, codes promo, configuration des canaux traçables. Travaille en préproduction uniquement.
+description: "Construit les supports techniques : page de réservation ou landing page, balisage LocalBusiness, liens UTM, codes promo, configuration des canaux traçables. Travaille en préproduction uniquement."
 ---
 
 # Développeur
