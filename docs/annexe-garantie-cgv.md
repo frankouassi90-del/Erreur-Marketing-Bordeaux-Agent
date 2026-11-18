@@ -41,6 +41,7 @@ Ne sont **pas** des Réservations Garanties : les réservations sans lien avec u
 ## Article 3. Conditions d'éligibilité
 
 La garantie ne s'applique que si, à J1 :
+
 1. un audit préalable a été réalisé par le Prestataire et conclut à l'éligibilité de l'établissement ;
 2. l'établissement dispose d'une capacité libre suffisante pendant la Période (estimée lors de l'audit à au moins {{X}} créneaux ou tables par semaine) ;
 3. le Client dispose d'une fiche Google Business Profile active et non suspendue ;
@@ -49,6 +50,7 @@ La garantie ne s'applique que si, à J1 :
 ## Article 4. Obligations du Client
 
 Le Client s'engage à :
+
 1. donner au Prestataire, avant J1, un accès gestionnaire à sa fiche Google et un accès en lecture (ou un export hebdomadaire) à son logiciel de réservation ;
 2. financer directement auprès des plateformes publicitaires un budget minimal de **{{X}} € TTC** sur la Période, si le plan d'action validé en prévoit un. Ce budget est payé par le Client à Google ou Meta. Il n'est jamais facturé ni remboursé par le Prestataire ;
 3. faire saisir systématiquement le code promotionnel ou l'origine de la réservation par son équipe ;
@@ -60,6 +62,7 @@ Le Client s'engage à :
 ## Article 5. Obligations du Prestataire
 
 Le Prestataire s'engage à :
+
 1. mettre en place les Canaux Traçables dans les **5 jours ouvrés** suivant la réception des accès ;
 2. ne publier ou envoyer aucun contenu sans validation écrite du Client ;
 3. respecter la réglementation applicable aux messages commerciaux (mention STOP et désinscription dans chaque SMS et e-mail) ;
@@ -85,6 +88,7 @@ Le Prestataire s'engage à :
 ## Article 8. Suspension de la Période
 
 La Période est suspendue, puis prolongée d'autant, en cas de :
+
 - fermeture de l'établissement non prévue à J1 (travaux, sinistre, décision administrative, congés) ;
 - suspension de la fiche Google ou du compte publicitaire non imputable au Prestataire ;
 - panne du logiciel de réservation de plus de 48 heures ;
@@ -107,6 +111,7 @@ Pour les données des clients de l'établissement (réactivation, réservations)
 ## Article 12. Droit de rétractation (contrat signé hors établissement)
 
 [À VÉRIFIER PAR LE JURISTE] Si la présente annexe est signée hors de l'établissement du Prestataire (par exemple dans le commerce du Client), que le Client emploie **5 salariés ou moins** et que le contrat n'entre pas dans le champ de son activité principale, le Client peut bénéficier d'un droit de rétractation de 14 jours (articles L221-3 et L221-18 du Code de la consommation). Dans ce cas :
+
 - le formulaire de rétractation est joint en **Annexe 3** ;
 - le Pilote ne démarre avant la fin de ce délai que sur demande expresse et écrite du Client.
 

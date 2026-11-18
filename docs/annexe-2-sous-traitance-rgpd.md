@@ -28,6 +28,7 @@ Le Sous-traitant traite des données personnelles pour le compte du Responsable 
 ## Article 3. Obligations du Responsable de traitement (le Client)
 
 Le Client :
+
 1. garantit que les contacts transmis sont des **clients existants** de son établissement, collectés légalement, informés de l'usage marketing de leurs coordonnées et non opposés à cet usage ;
 2. transmet, pour chaque contact, toute opposition ou désinscription connue ;
 3. donne ses instructions par écrit (e-mail suffisant) ;
@@ -36,6 +37,7 @@ Le Client :
 ## Article 4. Obligations du Sous-traitant (le Prestataire)
 
 Le Prestataire :
+
 1. traite les données **uniquement sur instruction documentée** du Client. S'il estime qu'une instruction viole le RGPD, il en informe immédiatement le Client ;
 2. veille à ce que toute personne autorisée à traiter les données soit soumise à une obligation de **confidentialité** ;
 3. applique les mesures de sécurité de l'article 6 ;
@@ -62,6 +64,7 @@ Le Prestataire :
 ## Article 6. Sécurité
 
 Le Prestataire met en place au minimum :
+
 - double authentification sur tous les comptes qui donnent accès aux données ;
 - accès réservé aux seules personnes qui en ont besoin, retiré dès la fin de leur mission ;
 - aucun fichier client stocké sur clé USB ni envoyé en pièce jointe non chiffrée ;
@@ -84,6 +87,7 @@ Le Prestataire notifie au Client toute violation de données personnelles dans u
 ## Article 10. Fin du traitement
 
 Au plus tard **30 jours** après la fin de la prestation, au choix du Client exprimé par écrit :
+
 - le Prestataire restitue les données dans un format courant (CSV), puis les supprime ;
 - ou il les supprime directement.
 

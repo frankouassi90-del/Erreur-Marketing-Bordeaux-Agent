@@ -8,11 +8,11 @@ Les présentes CGV s'appliquent exclusivement entre professionnels. Elles sont c
 
 ## Article 1. Prestataire
 
-**{{Raison sociale ou Prénom Nom}}**, exerçant sous le nom commercial « Erreur Marketing Bordeaux »
-{{Forme juridique : micro-entreprise / EURL / SASU}}, au capital de {{X}} € (si société)
-SIREN {{n°}}, {{RCS de Bordeaux / RNE}}
-Siège : {{adresse}}
-Contact : {{e-mail}}, {{téléphone}}
+**{{Raison sociale ou Prénom Nom}}**, exerçant sous le nom commercial « Erreur Marketing Bordeaux »\
+{{Forme juridique : micro-entreprise / EURL / SASU}}, au capital de {{X}} € (si société)\
+SIREN {{n°}}, {{RCS de Bordeaux / RNE}}\
+Siège : {{adresse}}\
+Contact : {{e-mail}}, {{téléphone}}\
 TVA intracommunautaire : {{n°}} ou mention « TVA non applicable, art. 293 B du CGI » {{si franchise en base}}
 
 Ci-après « le Prestataire ».
@@ -80,6 +80,7 @@ Ci-après « le Prestataire ».
 ## Article 9. Obligations du Client
 
 Le Client s'engage à :
+
 1. fournir des informations exactes et à jour (horaires, prix, carte, prestations, photos) ;
 2. donner les accès nécessaires dans les **5 jours ouvrés** suivant la commande ;
 3. valider ou refuser les contenus sous **48 heures ouvrées**. Sans réponse, le contenu n'est pas publié ;
@@ -109,6 +110,7 @@ Le Client s'engage à :
 ## Article 13. Plateformes tierces
 
 Le Prestataire ne maîtrise ni les algorithmes ni les règles de Google, Meta, TikTok ou des logiciels de réservation. Il n'est pas responsable :
+
 - d'une baisse de visibilité due à une modification de ces algorithmes ;
 - de la suspension d'une fiche ou d'un compte non imputable à une faute du Prestataire ;
 - de la panne d'un service tiers.
@@ -151,6 +153,7 @@ Aucune partie n'est responsable d'un retard ou d'une inexécution dû à un cas 
 ---
 
 **Annexes**
+
 - Annexe 1 : Garantie « Pilote 10 réservations » (`annexe-garantie-cgv.md`)
 - Annexe 2 : Accord de sous-traitance des données personnelles (`annexe-2-sous-traitance-rgpd.md`)
 - Annexe 3 : Information et formulaire de rétractation (`annexe-3-retractation.md`)
