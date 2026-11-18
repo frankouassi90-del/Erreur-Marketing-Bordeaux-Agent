@@ -36,14 +36,15 @@
 |---|---|---|
 | C1 | Vivants | Vérifier 5 min sur Google Maps, puis appeler avec la grille de qualification, sans prix |
 | C2 | Salon L'Essentiel | Le passer en Essentiel sans garantie, ou l'abandonner : adresse contradictoire, données à confirmer |
-| C3 | Liste de 20 restaurants (en cours) | Choisir les 5 à auditer après ta vérification |
+| C3 | Liste de 20 restaurants (`livrables/_interne/A_VALIDER/..._prospects-restaurants.md`) | Vérifier sur Google Maps le top 5 : Baud et Millet, Bistrot La Rémoulade, La Table de Bécassine, Le Bistro du Musée, Le Cinq ; puis appels de qualification |
+| C5 | Restaurants déjà sur TheFork (Bécassine, Bistro du Musée) | Confirmer qu'on peut distinguer nos réservations des leurs ; sinon, Essentiel sans garantie |
 | C4 | Chaque message de prospection | Relire le constat chiffré et sa source avant envoi |
 
 ## D. Confort (non bloquant)
 
 | # | Décision | Recommandation |
 |---|---|---|
-| D1 | Autoriser google.com, thefork.fr, fr.mappy.com, instagram.com dans le réseau de la session cloud | Oui, pour des audits fiables (proposition à approuver) |
+| D1 | Autoriser google.com, thefork.fr, fr.mappy.com, instagram.com, sluurpy.fr, restoranking.fr dans le réseau de la session cloud | Oui, pour des audits fiables (proposition à approuver) |
 | D2 | Outil de publication | Postiz (skill déjà installé) ou Metricool |
 | D3 | E-mail et SMS | Brevo via Make |
 | D4 | Accès à l'API Google Business Profile | Demander dès le premier abonné |
