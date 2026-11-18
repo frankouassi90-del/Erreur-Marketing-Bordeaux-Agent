@@ -48,3 +48,4 @@
 | Date | Décision | Par |
 |---|---|---|
 | 2026-11-18 | Test n°2 de l'équipe IA sur ce prospect (aucun contact pris) | Session principale, à la demande du fondateur |
+| 2026-11-18 | Fiche d'appel préparée (`livrables/_interne/A_VALIDER/2026-11-18_redacteur_fiches-appel.md`), aucun contact pris | Session principale |
