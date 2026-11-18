@@ -2,7 +2,7 @@
 
 *État au 2026-11-18. Coche `[x]` ou corrige la recommandation. Ordre = ce qui bloque le plus en premier.*
 
-## A. Bloquant avant le premier contact client
+## A. Bloquant avant le premier contact client (VALIDÉ le 2026-11-18)
 
 | # | Décision | Recommandation | Source |
 |---|---|---|---|
@@ -53,4 +53,4 @@
 ## Journal
 | Date | Décision | Choix |
 |---|---|---|
-| | | |
+| 2026-11-18 | A1 à A10 | Validées telles que recommandées (fondateur). Reportées dans les CGV, l'Annexe 1 et `CLAUDE.md`. |

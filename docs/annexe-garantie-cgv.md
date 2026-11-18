@@ -12,7 +12,7 @@ La présente annexe fait partie intégrante des CGV du Prestataire. En cas de co
 
 ## Article 1. Objet
 
-Le Prestataire s'engage à générer **{{10}} Réservations Garanties** pour l'établissement du Client pendant la Période de Pilote. Si l'objectif n'est pas atteint, le Client ne paie pas les honoraires du Pilote, dans les conditions ci-dessous.
+Le Prestataire s'engage à générer **10 Réservations Garanties** pour l'établissement du Client pendant la Période de Pilote. Si l'objectif n'est pas atteint, le Client ne paie pas les honoraires du Pilote, dans les conditions ci-dessous.
 
 Formulation commerciale associée, seule autorisée sur les supports du Prestataire :
 > « 10 nouvelles réservations traçables en 30 jours. Sinon, vous ne payez pas nos honoraires\*. »
@@ -33,7 +33,7 @@ Formulation commerciale associée, seule autorisée sur les supports du Prestata
   2. arrivée par un Canal Traçable ;
   3. honorée (client venu) ou, pour une date postérieure à J30, non annulée à J30 + 7 jours ;
   4. non doublonnée (même personne, même date : une seule réservation) ;
-  5. pour un restaurant : {{1 table, quel que soit le nombre de couverts}} ; pour un salon : {{1 prestation facturée d'au moins X € TTC}}.
+  5. {{1 table, quel que soit le nombre de couverts}}.
 - **Source de Preuve** : export du logiciel de réservation du Client ({{Zenchef / TheFork / Planity / autre}}), complété par les statistiques des Canaux Traçables. À défaut de logiciel, registre papier ou numérique tenu par le Client selon le modèle fourni par le Prestataire.
 
 Ne sont **pas** des Réservations Garanties : les réservations sans lien avec un Canal Traçable, les réservations faites par le Client, son personnel ou leurs proches, les privatisations et événements de groupe {{au-delà de X personnes}}, sauf accord écrit.
@@ -43,9 +43,10 @@ Ne sont **pas** des Réservations Garanties : les réservations sans lien avec u
 La garantie ne s'applique que si, à J1 :
 
 1. un audit préalable a été réalisé par le Prestataire et conclut à l'éligibilité de l'établissement ;
-2. l'établissement dispose d'une capacité libre suffisante pendant la Période (estimée lors de l'audit à au moins {{X}} créneaux ou tables par semaine) ;
+2. l'établissement dispose d'une capacité libre suffisante pendant la Période (déclarée par le Client lors de l'audit à au moins 8 tables libres par semaine) ;
 3. le Client dispose d'une fiche Google Business Profile active et non suspendue ;
-4. aucune fermeture de plus de {{5}} jours n'est prévue pendant la Période.
+4. aucune fermeture de plus de {{5}} jours n'est prévue pendant la Période ;
+5. l'établissement est un restaurant (le Pilote n'est pas proposé aux autres activités).
 
 ## Article 4. Obligations du Client
 
@@ -77,7 +78,7 @@ Le Prestataire s'engage à :
 
 ## Article 7. Effets de la garantie
 
-**7.1 Objectif atteint ({{10}} Réservations Garanties ou plus).** Le Prestataire facture les honoraires du Pilote : **{{X}} € HT**, payables à 30 jours à compter de la date de facture. Tout retard entraîne des pénalités au taux prévu aux CGV et l'indemnité forfaitaire légale de 40 € pour frais de recouvrement (art. L441-10 du Code de commerce).
+**7.1 Objectif atteint (10 Réservations Garanties ou plus).** Le Prestataire facture les honoraires du Pilote : **590 € HT**, payables à 30 jours à compter de la date de facture. Tout retard entraîne des pénalités au taux prévu aux CGV et l'indemnité forfaitaire légale de 40 € pour frais de recouvrement (art. L441-10 du Code de commerce).
 
 **7.2 Objectif non atteint, obligations du Client respectées.** Aucun honoraire n'est dû pour le Pilote. Le Prestataire propose en plus une **prolongation gratuite de 30 jours**, que le Client peut accepter ou refuser. Si l'objectif cumulé est atteint à la fin de la prolongation, les honoraires du Pilote sont dus au tarif prévu à l'article 7.1. Sinon, le Pilote prend fin sans aucun frais d'honoraires.
 
@@ -125,12 +126,12 @@ La présente annexe est soumise au droit français. À défaut d'accord amiable 
 
 | Paramètre | Valeur |
 |---|---|
-| Objectif | {{10}} Réservations Garanties |
-| Honoraires du Pilote | {{X}} € HT |
+| Objectif | 10 Réservations Garanties |
+| Honoraires du Pilote | 590 € HT |
 | Budget publicitaire minimal (payé par le Client) | {{X}} € TTC |
 | Canaux Traçables retenus | {{liste}} |
 | Source de Preuve | {{logiciel}} |
-| Définition d'une réservation (restaurant / salon) | {{1 table / prestation ≥ X €}} |
+| Définition d'une réservation | {{1 table, quel que soit le nombre de couverts}} |
 | Date de Démarrage prévue | {{date}} |
 
 Fait à Bordeaux, le {{date}}, en deux exemplaires.

@@ -29,8 +29,9 @@ Ci-après « le Prestataire ».
 | Offre | Contenu | Durée | Prix |
 |---|---|---|---|
 | **Audit de visibilité** | Analyse de la fiche Google, des avis, des réseaux sociaux et de 3 concurrents ; éligibilité au Pilote | 1 rendez-vous + rapport | Offert |
-| **Pilote 30 jours garanti** | Mise en place de Canaux Traçables, actions pour générer {{10}} réservations ; garantie de l'Annexe 1 | 30 jours | {{X}} € HT restaurant ; {{Y}} € HT salon ; facturé à J30 selon l'Annexe 1 |
-| **Abonnement Essentiel** | Gestion de la fiche Google, réponses aux avis, {{4}} publications par mois, rapport mensuel | Mensuel | {{X}} € HT / mois |
+| **Pilote 30 jours garanti** | Mise en place de Canaux Traçables, actions pour générer 10 réservations ; garantie de l'Annexe 1. Réservé aux restaurants éligibles (Annexe 1, art. 3) | 30 jours | 590 € HT, facturé à J30 selon l'Annexe 1 |
+| **Abonnement Essentiel** | Gestion de la fiche Google, réponses aux avis, {{4}} publications par mois, rapport mensuel | Mensuel | 199 € HT / mois (salons de coiffure : 149 ou 199 € HT / mois, selon bon de commande) |
+| **Mise en place sans pilote** | Optimisation initiale de la fiche Google, canaux traçables, charte de ton | Une fois | 149 € HT |
 | **Abonnement Croissance** | Essentiel + gestion des campagnes publicitaires locales, réactivation des clients, {{8}} publications, {{1}} vidéo par mois | Mensuel | {{X}} € HT / mois |
 | **Options** | Shooting photo, montage vidéo supplémentaire, création de site ou page de réservation | À l'unité | Sur devis |
 
@@ -46,7 +47,7 @@ Ci-après « le Prestataire ».
 
 ## Article 5. Durée et résiliation des abonnements
 
-1. **Engagement initial** : {{3}} mois à compter de la date de démarrage indiquée sur le bon de commande.
+1. **Engagement initial** : 3 mois à compter de la date de démarrage indiquée sur le bon de commande.
 2. **À l'issue de l'engagement initial**, l'abonnement se poursuit par périodes successives d'un mois. Chaque partie peut y mettre fin à tout moment par écrit (e-mail avec accusé de lecture ou lettre recommandée), avec un **préavis de 30 jours**.
 3. Le Prestataire rappelle au Client, au moins **15 jours** avant la fin de l'engagement initial, la date à partir de laquelle il peut résilier.
 4. **Résiliation pour manquement** : en cas de manquement grave d'une partie non corrigé **15 jours** après une mise en demeure écrite, l'autre partie peut résilier sans préavis ni indemnité, sans préjudice de dommages et intérêts.
