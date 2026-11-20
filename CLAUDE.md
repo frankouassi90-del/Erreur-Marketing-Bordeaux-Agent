@@ -37,7 +37,7 @@ La session principale orchestre. Elle lit la fiche client, choisit les agents, l
 - **Coiffure et restaurants déjà complets** : abonnement Essentiel sans garantie de volume.
 - **Prix validés le 2026-11-18** : voir `strategie/chiffrage-abonnement-essentiel.md`. Pilote restaurant 590 € HT, Essentiel 199 € HT/mois (coiffure : test 149 contre 199), mise en place sans pilote 149 € HT.
 - **Double rentabilité obligatoire** : toute proposition chiffre le gain du client ET le revenu horaire du consultant, comparé au plancher de 30 €/h.
-- **Vérification humaine avant contact** : depuis le 2026-11-20, l'environnement cloud autorise google.com, mappy.com, instagram.com, thefork.fr, sluurpy.fr et restoranking.fr (TheFork bloque toutefois les accès automatisés de son côté). Les pages Google Maps restent difficiles à lire automatiquement : un chiffre non lu directement est marqué « relayé ». Une vérification manuelle de 5 minutes reste obligatoire avant tout contact.
+- **Vérification humaine avant contact** : depuis le 2026-11-20, l'environnement cloud autorise google.com, mappy.com, instagram.com, thefork.fr, sluurpy.fr et restoranking.fr (TheFork bloque toutefois les accès automatisés de son côté). Attention : cet accès vaut pour les commandes de la session principale (curl), pas pour l'outil de lecture web des agents, qui reste bloqué sur ces sites. Les pages Google Maps restent difficiles à lire automatiquement : un chiffre non lu directement est marqué « relayé ». Une vérification manuelle de 5 minutes reste obligatoire avant tout contact.
 - **Pas de prix au premier contact.**
 
 ## Format de sortie de chaque livrable
