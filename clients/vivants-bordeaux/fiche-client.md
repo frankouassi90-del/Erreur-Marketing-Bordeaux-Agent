@@ -36,7 +36,7 @@
 ## Offre et contrat
 - Statut : prospect
 - Pilote : proposition préparée le 2026-11-18 (`2026-11-18_stratege_proposition-pilote.md`), non envoyée. Hypothèses : 590 € HT, 0 € de pub par défaut, preuve par registre + formulaire tracé. [À VALIDER]
-- Canaux traçables : prévus, non créés (gbp_reserver, site_bouton, gbp_post, email_reactivation si fichier, gads en option, instagram_bio)
+- Canaux traçables : outil de génération prêt (`outils/tracage/`), liens non générés faute d'URL de base et de J1 ; prévus (gbp_reserver, site_bouton, gbp_post, email_reactivation si fichier, gads en option, instagram_bio)
 - Abonnement : aucun
 
 ## Charte et ton

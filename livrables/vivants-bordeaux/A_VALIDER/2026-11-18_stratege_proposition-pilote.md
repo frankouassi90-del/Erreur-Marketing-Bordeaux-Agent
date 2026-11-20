@@ -1,3 +1,5 @@
+> **Note du 2026-11-20 (session principale)** : la convention UTM de référence est celle de `outils/tracage/` (`utm_source=<canal du registre>`, `utm_campaign=pilote_<slug>_<AAAAMM>`). Elle remplace celle du brief Développeur ci-dessous.
+
 # Proposition de pilote 30 jours : Vivants (13 rue des Bahutiers, Bordeaux Saint-Pierre) [À VALIDER]
 
 *Agent : Stratège. Rédigé le 2026-11-18. Brouillon interne. À présenter au restaurant seulement après relevé manuel de la fiche Google et appel au standard (audit du Chercheur : `livrables/vivants-bordeaux/A_VALIDER/2026-11-18_chercheur_audit.md`).*
