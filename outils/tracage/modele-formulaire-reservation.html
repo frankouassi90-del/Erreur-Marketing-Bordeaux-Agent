@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Demande de réservation</title>
+<!--
+  MODÈLE [À VALIDER] : préproduction uniquement, ne pas mettre en ligne sans validation humaine.
+  - Page autonome : aucun script, police ou feuille de style externe.
+  - Lit utm_source / utm_medium / utm_campaign dans l'URL et les recopie dans le champ caché « canal ».
+  - Aucun envoi réel : l'attribut action est vide et l'envoi est bloqué en JavaScript.
+  - Remplacer chaque [À COMPLÉTER] avec les faits de clients/<client>/fiche-client.md.
+-->
+<style>
+  :root {
+    --fond: #faf8f5; --carte: #ffffff; --texte: #1f1d1a; --doux: #6b655d;
+    --bord: #d9d3ca; --accent: #7a2e1f; --accent-texte: #ffffff; --ok: #2f6b3a; --alerte: #8a5a00;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --fond: #171513; --carte: #211e1b; --texte: #f1ece5; --doux: #b3aa9e;
+      --bord: #3b3631; --accent: #d9846f; --accent-texte: #171513; --ok: #8cc79a; --alerte: #e0b45c;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--fond); color: var(--texte);
+    font: 16px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  }
+  main { max-width: 32rem; margin: 0 auto; padding: 24px 16px 48px; }
+  h1 { font-size: 1.5rem; margin: 0 0 4px; }
+  .sous-titre { color: var(--doux); margin: 0 0 20px; }
+  form { background: var(--carte); border: 1px solid var(--bord); border-radius: 12px; padding: 20px 16px; }
+  .ligne { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+  label { display: block; font-weight: 600; margin: 14px 0 4px; }
+  input, select {
+    width: 100%; font: inherit; padding: 10px 12px; min-height: 44px;
+    color: var(--texte); background: var(--fond); border: 1px solid var(--bord); border-radius: 8px;
+  }
+  input:focus, select:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+  .aide { color: var(--doux); font-size: .875rem; margin: 4px 0 0; }
+  .consentement { display: flex; gap: 10px; align-items: flex-start; margin-top: 18px; font-weight: 400; }
+  .consentement input { width: 22px; min-height: 22px; margin-top: 2px; flex: none; }
+  button {
+    width: 100%; margin-top: 20px; min-height: 48px; font: inherit; font-weight: 700;
+    color: var(--accent-texte); background: var(--accent); border: 0; border-radius: 8px; cursor: pointer;
+  }
+  .rgpd { color: var(--doux); font-size: .8125rem; margin-top: 16px; }
+  .rgpd a { color: inherit; }
+  #message { margin-top: 16px; padding: 12px; border-radius: 8px; border: 1px solid var(--bord); }
+  #message.ok { color: var(--ok); }
+  #message.alerte { color: var(--alerte); }
+  .bandeau { font-size: .8125rem; color: var(--alerte); border: 1px dashed var(--alerte); border-radius: 8px; padding: 8px 12px; margin-bottom: 16px; }
+</style>
+</head>
+<body>
+<main>
+  <p class="bandeau">Modèle de préproduction [À VALIDER] : aucune demande n'est envoyée.</p>
+  <h1>Réserver une table</h1>
+  <p class="sous-titre">[À COMPLÉTER : nom du restaurant], [À COMPLÉTER : adresse]. Votre demande sera confirmée par le restaurant.</p>
+
+  <!--
+    [À COMPLÉTER] Branchement de l'envoi, après validation humaine seulement :
+    renseigner action="..." (outil de réservation ou formulaire du restaurant, jamais un outil d'IA),
+    puis retirer le blocage dans le script plus bas.
+    Exemple : <form id="reservation" method="post" action="[À COMPLÉTER]">
+  -->
+  <form id="reservation" method="post" action="" novalidate>
+    <div class="ligne">
+      <div>
+        <label for="date">Date</label>
+        <input id="date" name="date" type="date" required>
+      </div>
+      <div>
+        <label for="heure">Heure</label>
+        <!-- Horaires [À COMPLÉTER] depuis la fiche client, une fois vérifiés -->
+        <input id="heure" name="heure" type="time" step="900" required>
+      </div>
+    </div>
+
+    <label for="couverts">Nombre de couverts</label>
+    <select id="couverts" name="couverts" required>
+      <option value="">Choisir</option>
+      <option>1</option><option>2</option><option>3</option><option>4</option>
+      <option>5</option><option>6</option><option>7</option><option>8</option>
+    </select>
+    <p class="aide">Plus de 8 personnes : appelez le restaurant au [À COMPLÉTER : téléphone].</p>
+
+    <label for="prenom">Prénom</label>
+    <input id="prenom" name="prenom" type="text" autocomplete="given-name" maxlength="40" required>
+
+    <label for="telephone">Téléphone</label>
+    <input id="telephone" name="telephone" type="tel" autocomplete="tel" inputmode="tel"
+           pattern="(\+33|0)[1-9]([ .\-]?[0-9]{2}){4}" required>
+    <p class="aide">Pour confirmer votre table. Format : 06 12 34 56 78.</p>
+
+    <label class="consentement">
+      <input id="consentement" name="consentement" type="checkbox" value="oui" required>
+      <span>J'accepte que le restaurant utilise mon prénom et mon téléphone pour traiter cette demande.</span>
+    </label>
+
+    <!-- Traçage : rempli par le script à partir de l'URL. Aucune donnée personnelle ici. -->
+    <input type="hidden" id="canal" name="canal" value="sans_canal">
+    <input type="hidden" id="utm_source" name="utm_source" value="">
+    <input type="hidden" id="utm_medium" name="utm_medium" value="">
+    <input type="hidden" id="utm_campaign" name="utm_campaign" value="">
+
+    <button type="submit">Envoyer ma demande</button>
+    <div id="message" role="status" aria-live="polite" hidden></div>
+
+    <p class="rgpd">
+      Responsable du traitement : [À COMPLÉTER : raison sociale du restaurant]. Vos données servent
+      uniquement à traiter votre réservation et sont supprimées [À COMPLÉTER : durée].
+      Vous pouvez y accéder, les corriger ou les supprimer en écrivant à [À COMPLÉTER : contact].
+      <a href="#">Politique de confidentialité [À COMPLÉTER]</a>.
+    </p>
+  </form>
+</main>
+
+<script>
+(function () {
+  "use strict";
+  // Canaux autorisés : en-tête de outils/registre-reservations-pilote.csv.
+  var CANAUX = ["gbp_reserver", "gbp_post", "instagram_bio", "site_bouton",
+                "email_reactivation", "sms_reactivation", "gads", "meta_ads"];
+  var params = new URLSearchParams(window.location.search);
+  var propre = function (v) { return (v || "").replace(/[^a-z0-9_\-]/gi, "").slice(0, 80); };
+
+  var source = propre(params.get("utm_source")).toLowerCase();
+  var medium = propre(params.get("utm_medium"));
+  var campagne = propre(params.get("utm_campaign"));
+  document.getElementById("utm_source").value = source;
+  document.getElementById("utm_medium").value = medium;
+  document.getElementById("utm_campaign").value = campagne;
+  // canal = source|medium|campagne si la source est un canal du pilote, sinon "sans_canal"
+  // (une réservation sans canal tracé ne compte pas pour la garantie).
+  document.getElementById("canal").value =
+    CANAUX.indexOf(source) >= 0 ? [source, medium, campagne].join("|") : "sans_canal";
+
+  var champDate = document.getElementById("date");
+  var auj = new Date();
+  auj.setMinutes(auj.getMinutes() - auj.getTimezoneOffset());
+  champDate.min = auj.toISOString().slice(0, 10);
+
+  var form = document.getElementById("reservation");
+  var msg = document.getElementById("message");
+  form.addEventListener("submit", function (e) {
+    // Blocage volontaire de l'envoi : à retirer seulement après validation et branchement de action.
+    e.preventDefault();
+    msg.hidden = false;
+    if (!form.checkValidity()) {
+      msg.className = "alerte";
+      msg.textContent = "Merci de remplir tous les champs et de cocher la case de consentement.";
+      form.reportValidity();
+      return;
+    }
+    msg.className = "ok";
+    msg.textContent = "Modèle : demande non envoyée. Version en ligne : « Merci, votre demande est reçue. " +
+      "Le restaurant vous confirmera la réservation par téléphone ou SMS. » Canal : " +
+      document.getElementById("canal").value;
+  });
+})();
+</script>
+</body>
+</html>
