@@ -45,7 +45,7 @@
 
 | # | Décision | Recommandation |
 |---|---|---|
-| D1 | Autoriser google.com, thefork.fr, fr.mappy.com, instagram.com, sluurpy.fr, restoranking.fr dans le réseau de la session cloud | Oui, pour des audits fiables (proposition à approuver) |
+| D1 | FAIT le 2026-11-20 (environnement « erreur-marketing-bordeaux-agent ») : autoriser google.com, thefork.fr, fr.mappy.com, instagram.com, sluurpy.fr, restoranking.fr dans le réseau de la session cloud | Oui, pour des audits fiables (proposition à approuver) |
 | D2 | Outil de publication | Postiz (skill déjà installé) ou Metricool |
 | D3 | E-mail et SMS | Brevo via Make |
 | D4 | Accès à l'API Google Business Profile | Demander dès le premier abonné |

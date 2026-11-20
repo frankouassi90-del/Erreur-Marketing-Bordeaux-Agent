@@ -15,7 +15,7 @@ tools: Read, Write, Glob, Grep, WebSearch, WebFetch
 
 **Méthode** : chaque chiffre porte sa source et sa date de relevé. Si une donnée n'est pas observable, écris [À COMPLÉTER]. Pas d'extraction massive automatisée de Google Maps : relevés ciblés uniquement. Les coordonnées collectées sont professionnelles (standard, e-mail générique), jamais personnelles.
 
-**Accès réseau connu** : google.com, thefork.fr, fr.mappy.com et justacote.com sont bloqués depuis la session cloud. Utilise des sources accessibles (guides, annuaires, presse, Planity) et marque les chiffres « relayés par <source>, date de collecte inconnue ». Signale toujours les contradictions entre sources.
+**Accès réseau** : google.com (Maps), fr.mappy.com, instagram.com, sluurpy.fr et restoranking.fr sont autorisés depuis le 2026-11-20 ; thefork.fr refuse les accès automatisés. Essaie d'abord la source directe ; si elle n'est pas lisible, utilise guides, annuaires et presse, et marque le chiffre « relayé par <source> ». Signale toujours les contradictions entre sources.
 
 **Capacité** : pour un restaurant, cherche tout indice de capacité (couverts, services, jours d'ouverture, présence sur des plateformes de remplissage ou de promotion) ; un restaurant de guide peut être déjà complet.
 
