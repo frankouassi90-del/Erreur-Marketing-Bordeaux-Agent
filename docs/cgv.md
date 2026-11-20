@@ -63,13 +63,14 @@ Ci-après « le Prestataire ».
 
 1. **Abonnements** : facturés mensuellement, à terme à échoir, payables par **prélèvement SEPA** le {{5}} de chaque mois. Le Client signe un mandat de prélèvement à la commande.
 2. **Pilote** : facturé à son terme selon l'Annexe 1, payable à **30 jours** date de facture.
-3. **Options** : {{30}} % à la commande, solde à la livraison, payable à 30 jours date de facture.
-4. **Retard de paiement** (article L441-10 du Code de commerce) : toute somme non payée à l'échéance entraîne de plein droit, sans rappel :
+3. **Mise en place sans pilote** : facturée à la commande, payable à 30 jours date de facture.
+4. **Options** : {{30}} % à la commande, solde à la livraison, payable à 30 jours date de facture.
+5. **Retard de paiement** (article L441-10 du Code de commerce) : toute somme non payée à l'échéance entraîne de plein droit, sans rappel :
    - des pénalités au taux appliqué par la Banque centrale européenne à son opération de refinancement la plus récente, majoré de **10 points** ;
    - une **indemnité forfaitaire de 40 €** pour frais de recouvrement, par facture.
-5. **Suspension** : après une mise en demeure restée sans effet pendant **8 jours**, le Prestataire peut suspendre ses prestations jusqu'au paiement complet. La suspension ne prolonge pas l'engagement.
-6. Aucun escompte n'est accordé pour paiement anticipé.
-7. **Facturation électronique** : le Client accepte de recevoir ses factures sous forme électronique, selon les règles de la réforme de la facturation électronique en vigueur à la date d'émission. [À VÉRIFIER : calendrier applicable au Prestataire selon sa taille.]
+6. **Suspension** : après une mise en demeure restée sans effet pendant **8 jours**, le Prestataire peut suspendre ses prestations jusqu'au paiement complet. La suspension ne prolonge pas l'engagement.
+7. Aucun escompte n'est accordé pour paiement anticipé.
+8. **Facturation électronique** : le Client accepte de recevoir ses factures sous forme électronique, selon les règles de la réforme de la facturation électronique en vigueur à la date d'émission. [À VÉRIFIER : calendrier applicable au Prestataire selon sa taille.]
 
 ## Article 8. Obligations du Prestataire
 
