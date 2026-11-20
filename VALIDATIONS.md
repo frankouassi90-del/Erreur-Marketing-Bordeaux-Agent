@@ -29,6 +29,7 @@
 | B6 | Outil de preuve des réservations | Registre (`outils/`) + formulaire tracé ; Zenchef seulement si le restaurant le veut ; TheFork déconseillé |
 | B7 | Encaissement | Réparer le connecteur Stripe (prélèvement SEPA) |
 | B8 | Signature électronique | Yousign (environ 9 € HT/mois, non vérifié) |
+| B9 | Bon de commande (`docs/bon-de-commande.md`) | À joindre à la relecture juridique |
 
 ## C. Prospects (avant chaque appel)
 
